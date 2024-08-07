@@ -7,9 +7,6 @@ A basic example of Nest application with microservices connecting through kafka
 ## Run the application
 
 ---
-
-### Rodando através do docker compose up:
-
 Access the directory and open your IDE.
 
 Run the containers:
